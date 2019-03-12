@@ -23,10 +23,10 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
+* by http://jiangjiabin001.52zhangqi.xyz/
+* 大家好，我是江家宾
+* 就读于东北林业大学/通行工程（本科）
+* 欢迎大家的光临~
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -72,7 +72,7 @@ html{
   background: white; color: #222;
   overflow: auto;
 }
-/* 好了，我开始写简历了 */
+/* 好了，接下来看看我的简历吧 */
 
 
 `,
@@ -115,34 +115,36 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `江家宾
 ----
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
+Java后台工程师
 
 技能
 ----
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* 熟悉Java开发，了解Python/Shell
+* 熟悉Spring、SpringMVC、Mybatis、SpringBoot、SpringCloud等框架技术
+* 熟悉Oracle、MySQL数据库，熟悉sql的优化，了解数据库读写分离
+* 熟悉JVM及其原理，熟悉Nginx反向代理服务器
+* 熟悉单例、工厂、代理、策略、观察者等常用设计模式
+* 了解Redis、MongoDB等非关系型数据库
 
-工作经历
+实习经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+* 2018.9--2018.11 百度实习
+* 2018.12-- 今    京东实习
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [GitHub](https://github.com/violet-Bin)
+* [我的文章](https://blog.csdn.net/voilet_bin)
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+> 如果您喜欢我，欢迎联系我哦~
+Tel：18845649698
+Email：18845649698@163.com
 
 `
       }
