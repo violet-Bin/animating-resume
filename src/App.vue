@@ -142,9 +142,7 @@ Java后台工程师
 * [GitHub](https://github.com/violet-Bin)
 * [我的文章](https://blog.csdn.net/voilet_bin)
 
-> 如果您喜欢我，欢迎联系我哦~
-Tel：18845649698
-Email：18845649698@163.com
+> 欢迎联系我哦~ Tel：18845649698 Email：18845649698@163.com
 
 `
       }
