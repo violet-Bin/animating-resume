@@ -5,6 +5,7 @@
   "author": " <>",
   "private": true,
   "scripts": {
+    "start": "set port=20111 && npm run dev",
     "dev": "node build/dev-server.js",
     "build": "node build/build.js"
   },
